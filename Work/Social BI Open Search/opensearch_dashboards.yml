@@ -1,0 +1,16 @@
+server.host: "0.0.0.0"
+opensearch.hosts: ["https://search-socialbi-poc-yurgfqanwzg4tiu4rrbo3avxn4.us-east-2.es.amazonaws.com"]
+opensearch.username: "pharmascroll"
+opensearch.password: "Pharmascroll12#"
+opensearch.ssl.verificationMode: none
+opensearchDashboards.branding:
+  logo:
+    defaultUrl: "https://svgur.com/i/vt2.svg"
+  mark:
+    defaultUrl: "https://svgur.com/i/vt2.svg"
+  loadingLogo:
+    defaultUrl: "https://svgur.com/i/vt2.svg"
+  faviconUrl: "https://svgur.com/i/vt2.svg"
+  applicationTitle: "Pharma Scroll Social BI"
+opensearch_security.ui.basicauth.login.title: "Pharma Scroll Social BI"
+opensearch_security.ui.basicauth.login.brandimage: "https://svgur.com/i/vt2.svg"
